@@ -163,7 +163,7 @@ ol {
 .text-white span,
 .text-white li,
 .text-white a {
-	color: #fff;
+	color: rgb(255, 255, 255);
 }
 
 /* buttons */
@@ -300,7 +300,7 @@ ol {
 	width: 50px;
 	height: 50px;
 	background: #333;
-	color: #fff;
+	color: rgb(247, 247, 247);
 	text-align: center;
 	border-radius: 50%;
 	font-size: 28px;
@@ -326,7 +326,7 @@ ol {
 -----------------------*/
 
 .header__top {
-	background: #f5f5f5;
+	background: #bb3939;
 }
 
 .header__humberger {
@@ -464,7 +464,7 @@ ol {
 	right: -176px;
 	top: 62px;
 	z-index: 9;
-	background: #ffffff;
+	background: #f8f8f8;
 	padding: 30px;
 	padding-bottom: 25px;
 	max-width: 1170px;
@@ -499,7 +499,7 @@ ol {
 	color: #111111;
 	font-weight: 700;
 	text-transform: uppercase;
-	background: #ffffff;
+	background: #fffdfd;
 	padding: 2px 5px 1px;
 	display: inline-block;
 	position: absolute;
