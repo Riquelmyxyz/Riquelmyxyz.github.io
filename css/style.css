@@ -326,7 +326,7 @@ ol {
 -----------------------*/
 
 .header__top {
-	background: #bb3939;
+	background: #db7f07;
 }
 
 .header__humberger {
@@ -2059,11 +2059,6 @@ ol {
 .single-post__last__text p:first-child {
 	margin-bottom: 10px;
 }
-
-.single-post__tags {
-	margin-bottom: 50px;
-}
-
 .single-post__tags a {
 	display: inline-block;
 	font-size: 13px;
@@ -2309,11 +2304,6 @@ ol {
 
 .single-post__leave__comment form .input-list input {
 	height: 46px;
-	width: calc(33.33% - 20px);
-	background: transparent;
-	border: 1px solid #e1e1e1;
-	font-size: 14px;
-	color: #444444;
 	padding-left: 20px;
 	margin-bottom: 20px;
 	margin-right: 16px;
@@ -2427,8 +2417,6 @@ ol {
 }
 
 .footer__text .footer__social a {
-	display: inline-block;
-	font-size: 16px;
 	color: #111111;
 	height: 46px;
 	width: 46px;
@@ -2469,11 +2457,6 @@ ol {
 }
 
 .about__pic {
-	margin-right: -10px;
-}
-
-.about__pic__item__large {
-	margin-bottom: 10px;
 }
 
 .about__pic__item__large img {
@@ -2487,9 +2470,6 @@ ol {
 	margin-bottom: 10px;
 }
 
-.about__pic__item img {
-	min-width: 100%;
-}
 
 .about__text {
 	border-top: 1px solid #ebebeb;
@@ -2508,12 +2488,6 @@ ol {
 .about__right__text ul {
 	margin-left: 20px;
 	margin-bottom: 10px;
-}
-
-.about__right__text ul li {
-	list-style: none;
-	font-size: 15px;
-	color: #444444;
 	line-height: 30px;
 	position: relative;
 	padding-left: 20px;
@@ -2801,7 +2775,7 @@ ol {
 }
 
 .signin__form__signup__social a.google {
-	background: #d41623;
+	background: #e66b07;
 }
 
 .signin__form__signup__social a:last-child {
